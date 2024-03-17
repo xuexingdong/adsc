@@ -1,2 +1,2 @@
 # adsc
-Administrative Division Spider of China
+中国行政区划数据
